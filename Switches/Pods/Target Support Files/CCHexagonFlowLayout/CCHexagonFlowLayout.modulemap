@@ -1,0 +1,6 @@
+framework module CCHexagonFlowLayout {
+  umbrella header "CCHexagonFlowLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}

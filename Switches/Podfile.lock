@@ -1,0 +1,15 @@
+PODS:
+  - CCHexagonFlowLayout (1.0.2)
+  - PureLayout (3.0.2)
+
+DEPENDENCIES:
+  - CCHexagonFlowLayout
+  - PureLayout
+
+SPEC CHECKSUMS:
+  CCHexagonFlowLayout: b500d18bfb2381d6b02d2a69686831a3186b62e7
+  PureLayout: 4d550abe49a94f24c2808b9b95db9131685fe4cd
+
+PODFILE CHECKSUM: 18c8d4edaa5455c04f936a8a6dfe6a07aa055235
+
+COCOAPODS: 1.2.0
